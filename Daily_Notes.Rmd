@@ -1,0 +1,41 @@
+---
+title: "EdwardHill15_Daily_Notes"
+author: "Edward Hill"
+date: "17-12-2021"
+output: 
+  #cleanrmd::html_document_clean:
+    #theme: sakura-vader
+    html_document:
+      theme: journal
+bibliography: Daily_Notes.bib
+biblio-style: apalike
+link-citations: yes
+---
+
+# 17-12-2021
+
+Include reference in the text @Desmet2010. This is another citation [@Segall2019]. [@Smith2010]
+
+More references: 
+[@Maxwell2011]
+[@Lowe1990]
+[@Whitehead1929]
+
+En nog meer: [@Whitehead2007]
+
+Bergson [@Whitehead1922]
+
+![wow great picture](https://images.unsplash.com/photo-1608159477202-8a0e27f807b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
+
+In the Youtube lecture about Process Metaphysics ([Alfred North Whiteheads Process Metaphysics](https://www.youtube.com/watch?v=NUebEP-gDJU&t=366s)) you'll learn some interesting facts about the theory and vision of the nature and origin of the human experience as it was coined by Whitehead. 
+
+ * **punt 1**
+ * **punt 2**
+ * **punt 3**
+ * **punt 4**
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# References
