@@ -1,0 +1,9 @@
+---
+title: "Main Page"
+output:
+  html_document
+    df_print: paged
+---
+
+[file 1](content/Epistemic values.Rmd)
+[file 2](content/Vygotsky.Rmd)

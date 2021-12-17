@@ -1,0 +1,8 @@
+navbar:
+  title: Title
+  left:
+  - text: Main page that links to files
+    href: content.html
+Output: 
+  html_document:
+    theme: flatly
